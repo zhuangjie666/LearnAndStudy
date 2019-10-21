@@ -1,0 +1,28 @@
+/**index.wxss**/
+page {
+  line-height: 100%;
+  background: #bce1ee;
+}
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #fff;
+  align-items: center;
+  height: 100rpx;
+  
+}
+
+.usermotto {
+  margin-top: 200px;
+}
